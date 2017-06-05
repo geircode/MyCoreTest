@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  mycoretest:
+    image: mycoretest
+    build:
+      context: ./MyCoreTest
+      dockerfile: Dockerfile
