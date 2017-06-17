@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>f278b3ab-8856-4844-9dfb-9e6d9b2f2315</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
-    <DockerServiceUrl>http://localhost:{ServicePort}/api/values</DockerServiceUrl>
+    <DockerServiceUrl>http://ubuntu-docker-remote.cloudapp.net:{ServicePort}/api/values</DockerServiceUrl>
     <DockerServiceName>mycoretest</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
